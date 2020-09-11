@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b8e0b6-839c-44cf-9f56-011289a4e9f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprint-1-brief.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../how-to-learn (копия)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -38,6 +40,12 @@
       <workItem from="1599587476572" duration="6816000" />
       <workItem from="1599650651748" duration="31736000" />
       <workItem from="1599714761078" duration="7225000" />
+      <workItem from="1599722810389" duration="16000" />
+      <workItem from="1599722882030" duration="604000" />
+      <workItem from="1599740642979" duration="3000" />
+      <workItem from="1599741920698" duration="15546000" />
+      <workItem from="1599800802020" duration="4112000" />
+      <workItem from="1599805021994" duration="125000" />
     </task>
     <servers />
   </component>
@@ -45,6 +53,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599800907593">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.26.1848.1054@72.26.1848.1054" timestamp="1599800907593" />
     <state x="659" y="258" width="672" height="678" key="search.everywhere.popup" timestamp="1599592555084">
       <screen x="72" y="26" width="1848" height="1054" />
     </state>
