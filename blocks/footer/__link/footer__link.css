@@ -16,6 +16,6 @@
   color: #f2f2f2;
 }
 
-.footer__link:last-of-type {
+.footer__link:last-child {
   margin-bottom: 16px;
 }
